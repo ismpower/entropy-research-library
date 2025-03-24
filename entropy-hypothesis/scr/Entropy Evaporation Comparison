@@ -1,5 +1,6 @@
 # Compare entropy horizon prediction to black hole evaporation time
 # Based on Hawking evaporation time vs. saturation horizon model
+# Figure 43
 
 import numpy as np
 import matplotlib.pyplot as plt
