@@ -23,7 +23,6 @@ This repository contains all code, data, and documentation related to the explor
 | `/scripts`                        | All entropy models, calculations, and test runs  |
 | `/figures`                        | Plots and residual visualizations                |
 | `/latex`                          | Scientific paper (compile-ready LaTeX)           |
-| `/results`                        | Raw outputs from simulations                     |
 | `/z-entropy-hypothesis-history`   | Previous model build                             |
 
 ---
